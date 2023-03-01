@@ -1,0 +1,5 @@
+This is a cQGA execting on IBMQ-Melbourne 15 qubits machine.
+It represents a cGA using :
+	- Synchrnous replacement
+	- Pc = 1, Pm = 0.1, Theta = 1
+	

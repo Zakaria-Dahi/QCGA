@@ -1,6 +1,6 @@
 # Quick Description
 
-**Programmer:shipit:**: Zakaria Abdelmoiz DAHI, University of Malaga, Spain. 
+**Programmer:shipit:**: Zakaria Abdelmoiz DAHI. 
 
 **About:** This repositiory implements the fully quantum, quantum-inspired and simulated evolutionary algorithm devised and studied in [1] that solves the users' mobility tracking in cellular networks.
 
